@@ -13,8 +13,21 @@ Pythagorean Predictor indicated the top 5 EPL teams for first and second half of
 | Liverpool   | 80%         | Man United  | 81%         |
 | Tottenham   | 79%         | Arsenal     | 67%         |
 
+
+🏀National Basketball Association
+
+Heatmap review of Anothony Davis and Devin Booker (2016-2017 season)
+
+2pt Field goal attempts & 3pt shot attempts:
+Made🔴
+Missed🔵
+Blocked🟢
+
+<img src="./AD_DB.png">
+
+<br />
+
 🏒NHL
-🏀NBA
 🏏IPL
 ⚾MLB
 
