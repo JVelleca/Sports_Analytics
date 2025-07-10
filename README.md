@@ -4,7 +4,7 @@
 
 |Season| Stanley Cup Champion | Best Win % | Highest 💰 Payroll | Runner Up |
 |----  | ---------------------| ------------- | ----------------- | ----------|
-|2025  |  |  |<img src=https://assets.nhle.com/logos/nhl/svg/WSH_dark.svg> <img src=https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg> |
+|2025  |<img src=https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg>  |<img src=https://assets.nhle.com/logos/nhl/svg/WPG_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/TOR_dark.svg> <img src=https://assets.nhle.com/logos/nhl/svg/COL_dark.svg> | <img src=https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg>
 |2024  |<img src=https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg>  |<img src=https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg> <img src=https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg> | <img src=https://assets.nhle.com/logos/nhl/svg/EDM_dark.svg>
 |2023  |<img src=https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg> <img src=https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg>
 |2022  |<img src=https://assets.nhle.com/logos/nhl/svg/COL_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/COL_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg> <img src=https://assets.nhle.com/logos/nhl/svg/ARI_dark.svg> |<img src=https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg>
